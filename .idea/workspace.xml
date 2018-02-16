@@ -51,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/resources/assets/js/components/common/TopMenu.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -417,12 +417,12 @@
       <workItem from="1517152098905" duration="3115000" />
       <workItem from="1517235631037" duration="7832000" />
       <workItem from="1517322569312" duration="4965000" />
-      <workItem from="1517414454667" duration="43769000" />
+      <workItem from="1517414454667" duration="44349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59681000" />
+    <option name="totallyTimeSpent" value="60261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="0" />
@@ -863,7 +863,7 @@
     <entry file="file://$PROJECT_DIR$/resources/assets/js/components/common/TopMenu.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
           <folding />
         </state>
       </provider>
