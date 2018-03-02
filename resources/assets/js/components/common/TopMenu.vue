@@ -6,7 +6,7 @@
                     <div class="card-header">Example Component</div>
 
                     <div class="card-body">
-                        I'm an menu component.  
+                        I'm an menu component.
                     </div>
                 </div>
             </div>
